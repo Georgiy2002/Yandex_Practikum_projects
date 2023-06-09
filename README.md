@@ -4,7 +4,8 @@
 
 | Название проекта | Описание | Используемые библиотеки |
 | --- | --- | --- |
-| [Изучение закономерностей, определяющих успешность игр](https://github.com/Georgiy2002/Yandex_Practikum_projects/tree/main/Computer_game_sales_research)|Необходимо подготовить список гипотез для увеличения выручки. Приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.| pandas, numpy, matplotlib, scipy |
+| [Изучение закономерностей, определяющих успешность игр](https://github.com/Georgiy2002/Yandex_Practikum_projects/tree/main/Computer_game_sales_research)|
+Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры.| pandas, numpy, matplotlib, scipy |
 | [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/Georgiy2002/Yandex_Practikum_projects/tree/main/Research-on-apartment-listings)|В распоряжении данные сервиса Яндекс Недвижимость — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах. Задача — выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.| pandas, numpy, matplotlib |
 |[Проверка гипотез по увеличению выручки в интернет-магазине — оценка результатов A/B теста](https://github.com/Georgiy2002/Yandex_Practikum_projects/tree/main/Hypothesis_analysis)|Необходимо приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.| pandas, scipy, numpy, matplotlib |
 |[Анализ убытков приложения ProcrastinatePRO+](https://github.com/Georgiy2002/Yandex_Practikum_projects/tree/main/Investigation_revenue_decline)| Несмотря на огромные вложения в рекламу, последние несколько месяцев наша компания Procrastinate Pro+ несет убытки. Задача — разобраться в причинах и помочь компании выйти в плюс.| pandas, numpy, matplotlib |
